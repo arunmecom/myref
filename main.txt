@@ -1,8 +1,22 @@
 My SKill 
-Html
-css
-javascript
+Html5
+css3
+object oriented javascript
+ECMAscript 2015
 jquery
+Ajax
+Json
+APIs
 Bootstrap
 Responsive web Design
 sass
+WordPress, Opencart, Shopify, Liquid
+CMS development
+Git & Github
+SEO
+SQL
+PhotoShop
+Angular
+NodeJS
+Express
+MongoDB
