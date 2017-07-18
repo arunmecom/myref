@@ -1,0 +1,78 @@
+{
+	"html": {},
+	"css": {
+		"framworks": ["bootstrap", "skeleton", "bulma", "materlise", "w3css", "foundation"],
+		"preproseccer": ["sass", "scss"],
+		"libries": ["animation.css", "hover.css"]
+
+	},
+	"javascript": {
+		"libraries": ["jquery", "jqueryUI", "highlightsjs", "d3.js"],
+		"frameworks": ["angular", "node", "express"],
+		"pluins": ["sticky.js", "slick.js", "jcarosel", "owl-carosel","ajax"]
+	},
+	"codeEditor": ["brackets", "sublime", "dreamviewer", "atom"],
+	"database": ["sql", "mysql", "mongodb"],
+	"socialSite": {
+		"facebook": "https://www.facebook.com/arunmecom",
+		"twitter": "https://www.twitter.com/arunmecom",
+		"linkedin": "https://www.linkedin.com/arunmecom",
+		"behance": "https://www.behance.com/arunmecom",
+		"github": "https://www.github.com/arunmecom",
+		"codepen": "https://www.codepen.com/arunmecom"
+	},
+	"websites": {
+		"personal": ["http://arunme.com", "https://arunmecom.github.io"],
+		"clients": {
+			"teabox": {
+				"url": "https://teabox.com",
+				"about": "this is a tea online selling company and good startup based in bangalore",
+				"role": "I did the html css and javascript in this website"
+			},
+			"AtticGrey": {
+				"url": "https://atticgrey.com",
+				"about": "this is a tea online selling company and good startup based in bangalore",
+				"role": "I did the html css and javascript in this website"
+			},
+			"myRoots": {
+				"url": "https://myroots.desi",
+				"about": "this is a tea online selling company and good startup based in bangalore",
+				"role": "I did the html css and javascript in this website"
+			},
+			"curatorStudio": {
+				"url": "https://curatorstudio.com",
+				"about": "this is a tea online selling company and good startup based in bangalore",
+				"role": "I did the html css and javascript in this website"
+			},
+			"boxAppetit": {
+				"url": "https://boxappetit.com",
+				"about": "this is a tea online selling company and good startup based in UK",
+				"role": "I did the html css and javascript in this website"
+			},
+			"blackNblum": {
+				"url": "https://blacknblum.com",
+				"about": "this is a tea online selling company and good startup based in UK",
+				"role": "I did the html css and javascript in this website"
+			},
+			"foxncrab": {
+				"url": "https://foxncrab.com",
+				"about": "this is a tea online selling company and good startup based in UK",
+				"role": "I did the html css and javascript in this website"
+			},
+			"desmondanddempsey": {
+				"url": "https://desmondanddempsey.com/",
+				"about": "this is a tea online selling company and good startup based in UK",
+				"role": "I did the html css and javascript in this website"
+			}
+
+
+		},
+		"running": {
+			"simple": {
+				"about": "this is a css framework which i am plannning to design",
+				"url": "https://github.com/arun.simple"
+			}
+		}
+	},
+	"others": ["php", "wordpress", "shopify", "git & github", "seo", "digital marketing", "json"]
+}
